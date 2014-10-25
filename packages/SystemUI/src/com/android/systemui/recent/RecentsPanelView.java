@@ -910,7 +910,6 @@ public class RecentsPanelView extends FrameLayout implements OnItemClickListener
                                 mContext.startActivity(intent);
                             }
                         });
->>>>>>> gcm1
                     }
                 } else {
                     return false;
